@@ -18,9 +18,6 @@ Github - https://github.com/RithinM69
 */
 
 
-
-
-
 const int mButton = 11;
 
 const int button1 = 2;
